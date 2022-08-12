@@ -1,0 +1,11 @@
+C:\Users\Tony PC\Documents\Yuba College Documents\Spring 2019\ComSci 6\Assignments\Chapter 8 Programs\Program 8.3\Program 8.3\bin\Debug\Program 8.3.exe.config
+C:\Users\Tony PC\Documents\Yuba College Documents\Spring 2019\ComSci 6\Assignments\Chapter 8 Programs\Program 8.3\Program 8.3\bin\Debug\Program 8.3.exe
+C:\Users\Tony PC\Documents\Yuba College Documents\Spring 2019\ComSci 6\Assignments\Chapter 8 Programs\Program 8.3\Program 8.3\bin\Debug\Program 8.3.pdb
+C:\Users\Tony PC\Documents\Yuba College Documents\Spring 2019\ComSci 6\Assignments\Chapter 8 Programs\Program 8.3\Program 8.3\bin\Debug\Program 8.3.xml
+C:\Users\Tony PC\Documents\Yuba College Documents\Spring 2019\ComSci 6\Assignments\Chapter 8 Programs\Program 8.3\Program 8.3\obj\Debug\Program_8._3.Resources.resources
+C:\Users\Tony PC\Documents\Yuba College Documents\Spring 2019\ComSci 6\Assignments\Chapter 8 Programs\Program 8.3\Program 8.3\obj\Debug\Program 8.3.vbproj.GenerateResource.cache
+C:\Users\Tony PC\Documents\Yuba College Documents\Spring 2019\ComSci 6\Assignments\Chapter 8 Programs\Program 8.3\Program 8.3\obj\Debug\Program 8.3.vbproj.CoreCompileInputs.cache
+C:\Users\Tony PC\Documents\Yuba College Documents\Spring 2019\ComSci 6\Assignments\Chapter 8 Programs\Program 8.3\Program 8.3\obj\Debug\Program 8.3.exe
+C:\Users\Tony PC\Documents\Yuba College Documents\Spring 2019\ComSci 6\Assignments\Chapter 8 Programs\Program 8.3\Program 8.3\obj\Debug\Program 8.3.xml
+C:\Users\Tony PC\Documents\Yuba College Documents\Spring 2019\ComSci 6\Assignments\Chapter 8 Programs\Program 8.3\Program 8.3\obj\Debug\Program 8.3.pdb
+C:\Users\Tony PC\Documents\Yuba College Documents\Spring 2019\ComSci 6\Assignments\Chapter 8 Programs\Program 8.3\Program 8.3\obj\Debug\Program 8.3.vbprojAssemblyReference.cache
