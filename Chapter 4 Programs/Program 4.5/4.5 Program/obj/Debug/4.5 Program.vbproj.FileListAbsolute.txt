@@ -1,0 +1,11 @@
+C:\Users\Tony PC\Documents\Yuba College Documents\Spring 2019\ComSci 6\Assignments\Chapter 4 Programs\Program 4.5\4.5 Program\bin\Debug\4.5 Program.exe.config
+C:\Users\Tony PC\Documents\Yuba College Documents\Spring 2019\ComSci 6\Assignments\Chapter 4 Programs\Program 4.5\4.5 Program\bin\Debug\4.5 Program.exe
+C:\Users\Tony PC\Documents\Yuba College Documents\Spring 2019\ComSci 6\Assignments\Chapter 4 Programs\Program 4.5\4.5 Program\bin\Debug\4.5 Program.pdb
+C:\Users\Tony PC\Documents\Yuba College Documents\Spring 2019\ComSci 6\Assignments\Chapter 4 Programs\Program 4.5\4.5 Program\bin\Debug\4.5 Program.xml
+C:\Users\Tony PC\Documents\Yuba College Documents\Spring 2019\ComSci 6\Assignments\Chapter 4 Programs\Program 4.5\4.5 Program\obj\Debug\_4._5_Program.Resources.resources
+C:\Users\Tony PC\Documents\Yuba College Documents\Spring 2019\ComSci 6\Assignments\Chapter 4 Programs\Program 4.5\4.5 Program\obj\Debug\4.5 Program.vbproj.GenerateResource.cache
+C:\Users\Tony PC\Documents\Yuba College Documents\Spring 2019\ComSci 6\Assignments\Chapter 4 Programs\Program 4.5\4.5 Program\obj\Debug\4.5 Program.vbproj.CoreCompileInputs.cache
+C:\Users\Tony PC\Documents\Yuba College Documents\Spring 2019\ComSci 6\Assignments\Chapter 4 Programs\Program 4.5\4.5 Program\obj\Debug\4.5 Program.exe
+C:\Users\Tony PC\Documents\Yuba College Documents\Spring 2019\ComSci 6\Assignments\Chapter 4 Programs\Program 4.5\4.5 Program\obj\Debug\4.5 Program.xml
+C:\Users\Tony PC\Documents\Yuba College Documents\Spring 2019\ComSci 6\Assignments\Chapter 4 Programs\Program 4.5\4.5 Program\obj\Debug\4.5 Program.pdb
+C:\Users\Tony PC\Documents\Yuba College Documents\Spring 2019\ComSci 6\Assignments\Chapter 4 Programs\Program 4.5\4.5 Program\obj\Debug\4.5 Program.vbprojAssemblyReference.cache

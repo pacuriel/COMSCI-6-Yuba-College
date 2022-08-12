@@ -1,0 +1,11 @@
+C:\Users\Tony PC\Documents\Yuba College Documents\Spring 2019\ComSci 6\Assignments\Chapter 3 Program\Yuba CIty\Yuba CIty\bin\Debug\Yuba CIty.exe.config
+C:\Users\Tony PC\Documents\Yuba College Documents\Spring 2019\ComSci 6\Assignments\Chapter 3 Program\Yuba CIty\Yuba CIty\bin\Debug\Yuba CIty.exe
+C:\Users\Tony PC\Documents\Yuba College Documents\Spring 2019\ComSci 6\Assignments\Chapter 3 Program\Yuba CIty\Yuba CIty\bin\Debug\Yuba CIty.pdb
+C:\Users\Tony PC\Documents\Yuba College Documents\Spring 2019\ComSci 6\Assignments\Chapter 3 Program\Yuba CIty\Yuba CIty\bin\Debug\Yuba CIty.xml
+C:\Users\Tony PC\Documents\Yuba College Documents\Spring 2019\ComSci 6\Assignments\Chapter 3 Program\Yuba CIty\Yuba CIty\obj\Debug\Yuba_CIty.Resources.resources
+C:\Users\Tony PC\Documents\Yuba College Documents\Spring 2019\ComSci 6\Assignments\Chapter 3 Program\Yuba CIty\Yuba CIty\obj\Debug\Yuba CIty.vbproj.GenerateResource.cache
+C:\Users\Tony PC\Documents\Yuba College Documents\Spring 2019\ComSci 6\Assignments\Chapter 3 Program\Yuba CIty\Yuba CIty\obj\Debug\Yuba CIty.vbproj.CoreCompileInputs.cache
+C:\Users\Tony PC\Documents\Yuba College Documents\Spring 2019\ComSci 6\Assignments\Chapter 3 Program\Yuba CIty\Yuba CIty\obj\Debug\Yuba CIty.exe
+C:\Users\Tony PC\Documents\Yuba College Documents\Spring 2019\ComSci 6\Assignments\Chapter 3 Program\Yuba CIty\Yuba CIty\obj\Debug\Yuba CIty.xml
+C:\Users\Tony PC\Documents\Yuba College Documents\Spring 2019\ComSci 6\Assignments\Chapter 3 Program\Yuba CIty\Yuba CIty\obj\Debug\Yuba CIty.pdb
+C:\Users\Tony PC\Documents\Yuba College Documents\Spring 2019\ComSci 6\Assignments\Chapter 3 Program\Yuba CIty\Yuba CIty\obj\Debug\Yuba CIty.vbprojAssemblyReference.cache
