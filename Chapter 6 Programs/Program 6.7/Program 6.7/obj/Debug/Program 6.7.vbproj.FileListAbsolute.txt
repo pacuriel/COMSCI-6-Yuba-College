@@ -1,0 +1,11 @@
+C:\Users\Tony PC\Documents\Yuba College Documents\Spring 2019\ComSci 6\Assignments\Chapter 6 Programs\Program 6.7\Program 6.7\bin\Debug\Program 6.7.exe.config
+C:\Users\Tony PC\Documents\Yuba College Documents\Spring 2019\ComSci 6\Assignments\Chapter 6 Programs\Program 6.7\Program 6.7\bin\Debug\Program 6.7.exe
+C:\Users\Tony PC\Documents\Yuba College Documents\Spring 2019\ComSci 6\Assignments\Chapter 6 Programs\Program 6.7\Program 6.7\bin\Debug\Program 6.7.pdb
+C:\Users\Tony PC\Documents\Yuba College Documents\Spring 2019\ComSci 6\Assignments\Chapter 6 Programs\Program 6.7\Program 6.7\bin\Debug\Program 6.7.xml
+C:\Users\Tony PC\Documents\Yuba College Documents\Spring 2019\ComSci 6\Assignments\Chapter 6 Programs\Program 6.7\Program 6.7\obj\Debug\Program 6.7.vbprojAssemblyReference.cache
+C:\Users\Tony PC\Documents\Yuba College Documents\Spring 2019\ComSci 6\Assignments\Chapter 6 Programs\Program 6.7\Program 6.7\obj\Debug\Program_6._7.Resources.resources
+C:\Users\Tony PC\Documents\Yuba College Documents\Spring 2019\ComSci 6\Assignments\Chapter 6 Programs\Program 6.7\Program 6.7\obj\Debug\Program 6.7.vbproj.GenerateResource.cache
+C:\Users\Tony PC\Documents\Yuba College Documents\Spring 2019\ComSci 6\Assignments\Chapter 6 Programs\Program 6.7\Program 6.7\obj\Debug\Program 6.7.vbproj.CoreCompileInputs.cache
+C:\Users\Tony PC\Documents\Yuba College Documents\Spring 2019\ComSci 6\Assignments\Chapter 6 Programs\Program 6.7\Program 6.7\obj\Debug\Program 6.7.exe
+C:\Users\Tony PC\Documents\Yuba College Documents\Spring 2019\ComSci 6\Assignments\Chapter 6 Programs\Program 6.7\Program 6.7\obj\Debug\Program 6.7.xml
+C:\Users\Tony PC\Documents\Yuba College Documents\Spring 2019\ComSci 6\Assignments\Chapter 6 Programs\Program 6.7\Program 6.7\obj\Debug\Program 6.7.pdb
